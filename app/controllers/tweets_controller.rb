@@ -1,5 +1,3 @@
-require 'pry'
-
 class TweetsController < ApplicationController
 
   get '/tweets/new' do
